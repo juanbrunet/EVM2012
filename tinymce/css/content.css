@@ -1,0 +1,11 @@
+/**
+ *	Layout options
+ */
+
+.layout-third, .layout-two-thirds, .layout-half, .layout-fourth, .layout-three-fourths { float: left; margin: 0px 5% 30px 0px; }
+.layout-third { width: 30%; }
+.layout-two-thirds { width: 65%; }
+.layout-half { width: 47.5%; }
+.layout-fourth { width: 21.25%; }
+.layout-three-fourths { width: 73.75%; }
+.layout-last { margin-right: 0px; }

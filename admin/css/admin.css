@@ -1,0 +1,50 @@
+#uds-general-table {
+	max-width: 1000px;
+	border-collapse: collapse;
+	border: 1px solid #ccc;
+	margin: 45px 0px 20px;
+}
+
+#uds-general-table td {
+	padding: 10px;
+	min-width: 800px;
+	border: 1px solid #ccc;
+}
+
+#uds-general-table tr.even td {
+	background-color: #efefef;
+}
+
+#uds-general-table .alternates, #uds-general-table .optionals {
+	margin-top: 10px;
+	padding: 15px 0px 0px 20px;
+	border: 1px solid #cecece;
+	background-color: #f9f9f9;
+}
+
+#uds-general-table .alternates div, #uds-general-table .optionals div {
+	margin-bottom: 10px;
+}
+
+#uds-general-table label {
+	display: block;
+	float: left;
+	width: 300px;
+}
+
+#uds-general-table input[type="text"] {
+	width: 250px;
+}
+
+.uds-general-form {
+	max-width: 820px;
+}
+
+.uds-general-form .submit {
+	float: right;
+}
+
+.submit {
+	background-color: #efefef;
+	padding: 5px 7px;
+}

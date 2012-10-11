@@ -1,0 +1,25 @@
+.uds-ads-create, .uds-ads {
+	border: 1px solid #ddd;
+	margin: 10px 0px 10px;
+	border-collapse: collapse;
+}
+
+.uds-ads-create td, .uds-ads td {
+	padding: 5px;
+	border: 1px solid #ddd;
+}
+
+.uds-ads {
+	min-width: 1000px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.uds-ads th {
+	padding: 5px;
+	border: 1px solid #ddd;
+}
+
+.messages {
+	margin: 20px 0px;
+}
